@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\guess\guess\bin\Debug\net8.0\guess.exe
+C:\Users\User\source\repos\guess\guess\bin\Debug\net8.0\guess.deps.json
+C:\Users\User\source\repos\guess\guess\bin\Debug\net8.0\guess.runtimeconfig.json
+C:\Users\User\source\repos\guess\guess\bin\Debug\net8.0\guess.dll
+C:\Users\User\source\repos\guess\guess\bin\Debug\net8.0\guess.pdb
+C:\Users\User\source\repos\guess\guess\obj\Debug\net8.0\guess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\guess\guess\obj\Debug\net8.0\guess.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\guess\guess\obj\Debug\net8.0\guess.AssemblyInfo.cs
+C:\Users\User\source\repos\guess\guess\obj\Debug\net8.0\guess.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\guess\guess\obj\Debug\net8.0\guess.dll
+C:\Users\User\source\repos\guess\guess\obj\Debug\net8.0\refint\guess.dll
+C:\Users\User\source\repos\guess\guess\obj\Debug\net8.0\guess.pdb
+C:\Users\User\source\repos\guess\guess\obj\Debug\net8.0\guess.genruntimeconfig.cache
+C:\Users\User\source\repos\guess\guess\obj\Debug\net8.0\ref\guess.dll

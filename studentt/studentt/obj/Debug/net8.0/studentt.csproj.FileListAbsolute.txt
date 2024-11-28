@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\studentt\studentt\bin\Debug\net8.0\studentt.exe
+C:\Users\User\source\repos\studentt\studentt\bin\Debug\net8.0\studentt.deps.json
+C:\Users\User\source\repos\studentt\studentt\bin\Debug\net8.0\studentt.runtimeconfig.json
+C:\Users\User\source\repos\studentt\studentt\bin\Debug\net8.0\studentt.dll
+C:\Users\User\source\repos\studentt\studentt\bin\Debug\net8.0\studentt.pdb
+C:\Users\User\source\repos\studentt\studentt\obj\Debug\net8.0\studentt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\studentt\studentt\obj\Debug\net8.0\studentt.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\studentt\studentt\obj\Debug\net8.0\studentt.AssemblyInfo.cs
+C:\Users\User\source\repos\studentt\studentt\obj\Debug\net8.0\studentt.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\studentt\studentt\obj\Debug\net8.0\studentt.dll
+C:\Users\User\source\repos\studentt\studentt\obj\Debug\net8.0\refint\studentt.dll
+C:\Users\User\source\repos\studentt\studentt\obj\Debug\net8.0\studentt.pdb
+C:\Users\User\source\repos\studentt\studentt\obj\Debug\net8.0\studentt.genruntimeconfig.cache
+C:\Users\User\source\repos\studentt\studentt\obj\Debug\net8.0\ref\studentt.dll

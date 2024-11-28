@@ -1,0 +1,1 @@
+Numbers: 141, 14 | Operation: * | Result: 1974

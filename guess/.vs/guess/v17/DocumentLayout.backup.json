@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\guess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08CEF03B-B96A-4BE7-833D-B581FFEE2914}|guess\\guess.csproj|c:\\users\\user\\source\\repos\\guess\\guess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CEF03B-B96A-4BE7-833D-B581FFEE2914}|guess\\guess.csproj|solutionrelative:guess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\guess\\guess\\Program.cs",
+              "RelativeDocumentMoniker": "guess\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\guess\\guess\\Program.cs",
+              "RelativeToolTip": "guess\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:06:51.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
